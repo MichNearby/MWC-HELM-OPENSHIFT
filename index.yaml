@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  MWC-telefonica-app-container:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-01-28T11:32:05.803145+01:00"
+    description: A Helm chart for deploying MWC applications
+    digest: db1ae1cd4eaa949a42621ed3bbcb811823c10a747a3993a7a3bd5111906716b4
+    name: MWC-telefonica-app-container
+    type: application
+    urls:
+    - https://michnearby.github.io/MWC-HELM-OPENSHIFT/MWC-telefonica-app-container-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-28T11:32:05.802265+01:00"
